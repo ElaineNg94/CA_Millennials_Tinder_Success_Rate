@@ -1,4 +1,4 @@
-# ca_millenials_app_success_rate
+# CA_millenials_app_success_rate
 ![tinder banner](https://user-images.githubusercontent.com/79742633/135597977-0f9b6407-e3f6-43b0-bfc2-da465edd6351.jpg)
 ## Overview of the analysis
 
