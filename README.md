@@ -1,5 +1,5 @@
 # california_millenials_app_success_rate
-## Overview of Analysis
+## Overview of the analysis
 
 As many college-aged millennials know, Tinder is a popular online dating app where you swipe left if you don’t like someone, right if you do, or up if you want 
 to “super like” them and show you already "liked" them. Both users must like each other and “match” to be able to start a conversation. This dataset includes
@@ -7,5 +7,28 @@ students from colleges throughout the country, but for this project we will focu
 for each school. Eventually, we will get the overall percentage of relationship success from millennials in California who use Tinder.
 
 ## Average results by college/university
+**University of California, Davis**
+
+**University of California, Berkeley**
+
+**Santa Clara University**
+
+**Stanford University**
+
+**University of California, Santa Cruz**
+
+**Cal Poly San Luis Obispo**
+
+**University of California, Santa Barbara**
+
+**Cal State Northridge**
+
+**University of California, Los Angeles**
+
+**University of Southern California**
+
+**University of California, San Diego**
+
+**San Diego State University**
 
 ## Conclusion
