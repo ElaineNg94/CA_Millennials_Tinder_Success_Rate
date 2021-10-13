@@ -1,4 +1,4 @@
-# CA_millenials_app_success_rate
+# CA_millennials_app_success_rate
 ![tinder banner](https://user-images.githubusercontent.com/79742633/135597977-0f9b6407-e3f6-43b0-bfc2-da465edd6351.jpg)
 ## Overview of the analysis
 
@@ -33,3 +33,12 @@ for each school. Eventually, we will get the overall percentage of relationship 
 **San Diego State University**
 
 ## Conclusion
+Overall, this analysis shows the average success rate on whether it became a relationship or not among millennials in all colleges in the United States on tinder. According to this pie chart, the results are about the same as the results we got when we only looked at millennials from California colleges.
+
+**Results from Millennials Outside of California Colleges**
+
+<img width="369" alt="Average overall results colleges" src="https://user-images.githubusercontent.com/79742633/137049777-cd4c8015-1f45-4704-88c0-585bb8f8164d.png">
+
+**Results from Millennials in California Colleges**
+
+(IMAGE)
