@@ -35,10 +35,14 @@ for each school. Eventually, we will get the overall percentage of relationship 
 ## Conclusion
 Overall, this analysis shows the average success rate on whether it became a relationship or not among millennials in all colleges in the United States on tinder. According to this pie chart, the results are about the same as the results we got when we only looked at millennials from California colleges.
 
-**Results from Millennials Outside of California Colleges**
+**Results from Millennials By College Not in California**
+
+(IMAGE)
+
+**Overall Results from Millennials Outside of California Colleges**
 
 <img width="369" alt="Average overall results colleges" src="https://user-images.githubusercontent.com/79742633/137049777-cd4c8015-1f45-4704-88c0-585bb8f8164d.png">
 
-**Results from Millennials in California Colleges**
+**Overall Results from Millennials in California Colleges**
 
-(IMAGE)
+(IMAGE)(ENDING DESCRIPTION)
