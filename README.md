@@ -1,7 +1,5 @@
 # CA_millennials_app_success_rate
-![
-
-banner](https://user-images.githubusercontent.com/79742633/135597977-0f9b6407-e3f6-43b0-bfc2-da465edd6351.jpg)
+![banner](https://user-images.githubusercontent.com/79742633/135597977-0f9b6407-e3f6-43b0-bfc2-da465edd6351.jpg)
 ## Overview of the analysis
 
 As many college-aged millennials know, Tinder is a popular online dating app where you swipe left if you don’t like someone, right if you do, or up if you want 
