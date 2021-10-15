@@ -7,7 +7,7 @@ want to “super like” them and show you already "liked" them. Both users must
 includes students from colleges throughout the country, but for this project we will focus on the data from colleges in California by cleaning and organizing
 the data for each school. Eventually, we will get the overall percentage of relationship success rate from millennials in California who use Tinder, which
 brings us to the purpose of this analysis. The purpose of this analysis is to compare the overall success rate of millennials in colleges around the United
-States and compare it to the overall success rate for millennials from colleges in California who use Tinder when basing it on whether or not it "_**became a
+States who use Tinder and compare it to the overall Tinder success rate for millennials from colleges in California based on whether or not it "_**became a
 relationship**_."
 
 ## Average results by college/university
