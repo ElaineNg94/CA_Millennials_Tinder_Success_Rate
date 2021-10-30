@@ -10,6 +10,8 @@ brings us to the purpose of this analysis. The purpose of this analysis is to co
 States who use Tinder and compare it to the overall Tinder success rate for millennials from colleges in California based on whether or not it "_**became a
 relationship**_."
 
+[link to "Tinder Success Rate Among Millenials Analysis"](https://public.tableau.com/app/profile/elaine.ng5741/viz/TinderSuccessRateAmongMillennialsStory/Story1 "link to dashboard")
+
 ## Average results by college/university
 **University of California, Davis**
 
