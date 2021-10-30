@@ -1,14 +1,9 @@
-# CA_millennials_app_success_rate
 ![banner](https://user-images.githubusercontent.com/79742633/135597977-0f9b6407-e3f6-43b0-bfc2-da465edd6351.jpg)
 ## Overview of the analysis
 
-As many college-aged millennials know, Tinder is a popular online dating app where you swipe left if you don’t like someone, right if you do, or up if you
-want to “super like” them and show you already "liked" them. Both users must like each other and “match” to be able to start a conversation. This dataset
-includes students from colleges throughout the country, but for this project we will focus on the data from colleges in California by cleaning and organizing
-the data for each school. Eventually, we will get the overall percentage of relationship success rate from millennials in California who use Tinder, which
-brings us to the purpose of this analysis. The purpose of this analysis is to compare the overall success rate of millennials in colleges around the United
-States who use Tinder and compare it to the overall Tinder success rate for millennials from colleges in California based on whether or not it "_**became a
-relationship**_."
+As many college-aged millennials know, Tinder is a popular online dating app where you swipe **_left_** if you don’t like someone, **_right_** if you do, or **_up_** if you want to “super like” them and show you already "liked" them. Both users must like each other and “match” to be able to start a conversation.
+
+This dataset includes students from colleges throughout the country, but for this project we will focus on the data from colleges in California by cleaning and organizing the data for each school. Eventually, we will get the overall percent of relationship success rate from millennials in California who use Tinder, which then brings us to the purpose of this analysis. The purpose of this analysis is to compare the overall success rate of millennials in colleges around the United States who use Tinder and compare it to the overall Tinder success rate for millennials from colleges in California based on whether or not it "_**became a relationship**_."
 
 [link to "Tinder Success Rate Among Millennials Analysis"](https://public.tableau.com/app/profile/elaine.ng5741/viz/TinderSuccessRateAmongMillennialsStory/Story1 "link to dashboard")
 
@@ -42,7 +37,7 @@ Overall, this analysis shows the average success rate on whether it became a rel
 use Tinder. According to these pie charts shown below, the overall results from millennials **NOT** in California colleges are about the same as the results 
 we got when we only looked at the data from millennials from California colleges.
 
-**Results from Millennials By Colleges Not in California**
+**Results from Millennials By Each College NOT in California**
 
 (IMAGE)
 
