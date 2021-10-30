@@ -37,7 +37,7 @@ Overall, this analysis shows the average success rate on whether it became a rel
 use Tinder. According to these pie charts shown below, the overall results from millennials **NOT** in California colleges are about the same as the results 
 we got when we only looked at the data from millennials from California colleges.
 
-**Results from Millennials By Each College NOT in California**
+**Overall Results from Millennials By Each College NOT in California**
 
 (IMAGE)
 
