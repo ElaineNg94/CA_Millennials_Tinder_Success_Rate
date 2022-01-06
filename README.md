@@ -37,16 +37,16 @@ This dataset includes students from colleges throughout the country, but for thi
 ## Conclusion
 Overall, this analysis shows the average success rate on whether it became a relationship or not among millennials in all colleges in the United States who 
 use Tinder. According to these pie charts shown below, the overall results from millennials **NOT** in California colleges are about the same as the results 
-we got when we only looked at the data from millennials from California colleges.
-
-**Overall Results from Millennials By Each College NOT in California**
-
-(IMAGE)
-
-**Overall Results from Millennials Outside of California Colleges**
-
-<img width="369" alt="Average overall results colleges" src="https://user-images.githubusercontent.com/79742633/137049777-cd4c8015-1f45-4704-88c0-585bb8f8164d.png">
+we got when we only looked at the data from millennials from California colleges. Millenials from colleges in California still tend to have a slightly higher dating app success rate according to our data.
 
 **Overall Results from Millennials in California Colleges**
 
-(IMAGE)(ENDING DESCRIPTION)
+<img width="366" alt="CA Colleges Tinder Success Rate" src="https://user-images.githubusercontent.com/79742633/148360716-4e939ce9-e883-444e-af53-22ecdc6acbd0.png">
+
+This data shows there are 30.56% chance of a "Yes" result, meaning that it became a relationship and was successful. It also shows a 69.44% for the "No" results for these millenials, meaning that it did not become a relationship and was **NOT** successful. Since the data of the "Yes" results are higher than the overall average results in the US, this can mean California millenials in college may have a better chance here.
+
+**Overall Results from Millennials in All US Colleges**
+
+<img width="369" alt="Average overall results colleges" src="https://user-images.githubusercontent.com/79742633/137049777-cd4c8015-1f45-4704-88c0-585bb8f8164d.png">
+
+This data shows there are a 28.70% chance of a "Yes" result and a 71.30% chance of a "No" result for the overall average when looking at all colleges in the United States we looked at from this dataset.
