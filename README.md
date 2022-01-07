@@ -39,6 +39,8 @@ Overall, this analysis shows the average success rate on whether it became a rel
 use Tinder. According to these pie charts shown below, the overall results from millennials **NOT** in California colleges are about the same as the results 
 we got when we only looked at the data from millennials from California colleges. Millenials from colleges in California still tend to have a slightly higher dating app success rate according to our data.
 
+In the future, to improve this data and get a more accurate way to analyze it, I would try to look for data where the **_sample size_** is the same for **_each_** college. That would help make a less biased answer if we decide to judge the results by each college. For example, you can see some colleges, such as Stanford University had 108 millenials surveyed, while other colleges like University of California, San Diego only 1 millenial surveyed in this dataset which means it would be difficult to compare these two colleges together. The results from Stanford University would be more accurate in this example mentioned.
+
 **Overall Results from Millennials in California Colleges**
 
 <img width="366" alt="CA Colleges Tinder Success Rate" src="https://user-images.githubusercontent.com/79742633/148360716-4e939ce9-e883-444e-af53-22ecdc6acbd0.png">
