@@ -12,27 +12,51 @@ This dataset includes students from colleges throughout the country, but for thi
 ## Average results by college/university
 **University of California, Davis**
 
+<img width="605" alt="UCD Tinder Data" src="https://user-images.githubusercontent.com/79742633/148527983-de946bb7-0eb6-4c00-b80e-89ba8aa6d36d.png">
+
 **University of California, Berkeley**
+
+<img width="612" alt="UCB Tinder Data" src="https://user-images.githubusercontent.com/79742633/148527982-984996b4-3b7d-47b8-aa3f-26881f00d894.png">
 
 **Santa Clara University**
 
+<img width="576" alt="SCU Tinder Data" src="https://user-images.githubusercontent.com/79742633/148528005-dd0fd5ac-56c8-49e2-bb75-6fb3f2e04478.png">
+
 **Stanford University**
+
+<img width="578" alt="Stanford Tinder Data" src="https://user-images.githubusercontent.com/79742633/148528007-c088e6db-a550-4930-9a0a-af7d4fef1642.png">
 
 **University of California, Santa Cruz**
 
+<img width="628" alt="UCSC Tinder Data" src="https://user-images.githubusercontent.com/79742633/148527990-32e17eaa-41bb-4867-b45f-34f2de7e0782.png">
+
 **Cal Poly San Luis Obispo**
+
+<img width="628" alt="Cal Poly Tinder Data" src="https://user-images.githubusercontent.com/79742633/148527954-589e9049-1117-480c-93dc-fb31757b7656.png">
 
 **University of California, Santa Barbara**
 
+<img width="634" alt="UCSB Tinder Data" src="https://user-images.githubusercontent.com/79742633/148527988-1171e38e-57b8-4ddd-9e62-5c3d072b5037.png">
+
 **Cal State Northridge**
+
+<img width="575" alt="Cal State Northridge Tinder Data" src="https://user-images.githubusercontent.com/79742633/148527961-37524d5b-9d97-4399-988d-3e8557452161.png">
 
 **University of California, Los Angeles**
 
+<img width="632" alt="UCLA Tinder Data" src="https://user-images.githubusercontent.com/79742633/148527984-d1ecdd01-5c46-4c1d-b895-e06ef25394f4.png">
+
 **University of Southern California**
+
+<img width="608" alt="USC Tinder Data" src="https://user-images.githubusercontent.com/79742633/148527993-5d2da7fc-d361-48ca-aee6-6afa1fbf47d4.png">
 
 **University of California, San Diego**
 
+<img width="625" alt="UCSD Tinder Data" src="https://user-images.githubusercontent.com/79742633/148527992-0899b086-534d-4dfe-ae71-ded6facc5830.png">
+
 **San Diego State University**
+
+<img width="583" alt="SDSU Tinder Data" src="https://user-images.githubusercontent.com/79742633/148528006-f9d31097-9783-4629-82dd-713477fd7354.png">
 
 ## Conclusion
 Overall, this analysis shows the average success rate on whether it became a relationship or not among millennials in all colleges in the United States who 
