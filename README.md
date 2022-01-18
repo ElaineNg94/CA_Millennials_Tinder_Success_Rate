@@ -32,7 +32,7 @@ From our data of Santa Clara University millennials in this survey, there was no
 
 <img width="578" alt="Stanford Tinder Data" src="https://user-images.githubusercontent.com/79742633/148528007-c088e6db-a550-4930-9a0a-af7d4fef1642.png">
 
-From our data of Stanford University millennials in this survey, there was a 12% success of finding dates through the app, but those did **NOT** **_become a relationship_**.
+From our data of Stanford University millennials in this survey, there was a **12%** success of finding dates through the app, but those did **NOT** **_become a relationship_**.
 
 **University of California, Santa Cruz**
 
