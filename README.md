@@ -14,78 +14,78 @@ This dataset includes students from colleges throughout the country, but for thi
 
 <img width="605" alt="UCD Tinder Data" src="https://user-images.githubusercontent.com/79742633/148527983-de946bb7-0eb6-4c00-b80e-89ba8aa6d36d.png">
 
-From our data University of California, Davis students in this survey, **17.6%** was successful at finding dates and it **_became a relationship_**.
+From our data University of California, Davis millennials in this survey, **17.6%** was successful at finding dates and it **_became a relationship_**.
 
 **University of California, Berkeley**
 
 <img width="612" alt="UCB Tinder Data" src="https://user-images.githubusercontent.com/79742633/148527982-984996b4-3b7d-47b8-aa3f-26881f00d894.png">
 
-From our data University of California, Berkeley students in this survey, **27.5%** was successful at finding dates, but it did **NOT** **_become a relationship_**.
+From our data University of California, Berkeley millennials in this survey, **27.5%** was successful at finding dates, but it did **NOT** **_become a relationship_**.
 
 **Santa Clara University**
 
 <img width="576" alt="SCU Tinder Data" src="https://user-images.githubusercontent.com/79742633/148528005-dd0fd5ac-56c8-49e2-bb75-6fb3f2e04478.png">
 
-From our data of Santa Clara University students in this survey, there was no success of finding dates through the app, but there was success off the app.
+From our data of Santa Clara University millennials in this survey, there was no success of finding dates through the app, but there was success off the app.
 
 **Stanford University**
 
 <img width="578" alt="Stanford Tinder Data" src="https://user-images.githubusercontent.com/79742633/148528007-c088e6db-a550-4930-9a0a-af7d4fef1642.png">
 
-From our data of Stanford University students in this survey, there was a 12% success of finding dates through the app, but those did **NOT** **_become a relationship_**.
+From our data of Stanford University millennials in this survey, there was a 12% success of finding dates through the app, but those did **NOT** **_become a relationship_**.
 
 **University of California, Santa Cruz**
 
 <img width="628" alt="UCSC Tinder Data" src="https://user-images.githubusercontent.com/79742633/148527990-32e17eaa-41bb-4867-b45f-34f2de7e0782.png">
 
-From our data University of California, Santa Cruz students in this survey, **66.7%** was successful at finding dates and it **_became a relationship_**.
+From our data University of California, Santa Cruz millennials in this survey, **66.7%** was successful at finding dates and it **_became a relationship_**.
 
 **Cal Poly San Luis Obispo**
 
 <img width="628" alt="Cal Poly Tinder Data" src="https://user-images.githubusercontent.com/79742633/148527954-589e9049-1117-480c-93dc-fb31757b7656.png">
 
-From our data Cal Poly San Luis Obispo students in this survey, **32%** was successful at finding dates, but it did **NOT** **_become a relationship_**.
+From our data Cal Poly San Luis Obispo millennials in this survey, **32%** was successful at finding dates, but it did **NOT** **_become a relationship_**.
 
 **University of California, Santa Barbara**
 
 <img width="634" alt="UCSB Tinder Data" src="https://user-images.githubusercontent.com/79742633/148527988-1171e38e-57b8-4ddd-9e62-5c3d072b5037.png">
 
-From our data of UC Santa Barbara students in this survey, **32%** was successful in getting dates, but it did **NOT** **_become a relationship_**.
+From our data of UC Santa Barbara millennials in this survey, **32%** was successful in getting dates, but it did **NOT** **_become a relationship_**.
 
 **Cal State Northridge**
 
 <img width="575" alt="Cal State Northridge Tinder Data" src="https://user-images.githubusercontent.com/79742633/148527961-37524d5b-9d97-4399-988d-3e8557452161.png">
 
-From our data of Cal State Northridge students in this survey, there was no success of finding dates through the app, but they found success off the app where it **_became a relationship_**.
+From our data of Cal State Northridge millennials in this survey, there was no success of finding dates through the app, but they found success off the app where it **_became a relationship_**.
 
 **University of California, Los Angeles**
 
 <img width="632" alt="UCLA Tinder Data" src="https://user-images.githubusercontent.com/79742633/148527984-d1ecdd01-5c46-4c1d-b895-e06ef25394f4.png">
 
-From our data of University of California, Los Angeles students in this survey, **7.7%** was successful and it **_became a relationship_**, **53.8%** was not successful on this dating app, but they found success elsewhere.
+From our data of University of California, Los Angeles millennials in this survey, **7.7%** was successful and it **_became a relationship_**, **53.8%** was not successful on this dating app, but they found success elsewhere.
 
 **University of Southern California**
 
 <img width="608" alt="USC Tinder Data" src="https://user-images.githubusercontent.com/79742633/148527993-5d2da7fc-d361-48ca-aee6-6afa1fbf47d4.png">
 
-From our data of University of Southern California students in this survey, **10%** was successful in finding a date, but it did **NOT** **_become a relationship_**. There were also **70%** of students who were not successful in finding dates through the app, but they found success elsewhere.
+From our data of University of Southern California millennials in this survey, **10%** was successful in finding a date, but it did **NOT** **_become a relationship_**. There were also **70%** of millennials who were not successful in finding dates through the app, but they found success elsewhere.
 
 **University of California, San Diego**
 
 <img width="625" alt="UCSD Tinder Data" src="https://user-images.githubusercontent.com/79742633/148527992-0899b086-534d-4dfe-ae71-ded6facc5830.png">
 
-From our data of University of California, San Diego students in this survey, **100%** was successful and it **_became a relationship_**. For this college, not enough students were surveyed since there was only one student surveyed. We would need a larger sample size to get a more accurate analysis of this college.
+From our data of University of California, San Diego millennial in this survey, **100%** was successful and it **_became a relationship_**. For this college, not enough millennials were surveyed since there was only one millennial surveyed. We would need a larger sample size to get a more accurate analysis of this college.
 
 **San Diego State University**
 
 <img width="583" alt="SDSU Tinder Data" src="https://user-images.githubusercontent.com/79742633/148528006-f9d31097-9783-4629-82dd-713477fd7354.png">
 
-From our data of San Diego State University students in this survey, **19.2%** was successful in finding dates, but it did **NOT** **_become a relationship_**.
+From our data of San Diego State University millennials in this survey, **19.2%** was successful in finding dates, but it did **NOT** **_become a relationship_**.
 
 ## Conclusion
-Overall, this analysis shows the average success rate on whether it became a relationship or not among millennials. It looks at the overall average results from millenials from some colleges around the United States who use Tinder and later we compare it to the average overall results from millenials from California colleges. According to these pie charts shown below, the overall results from millennials **NOT** in California colleges are about the same as the results we got when we only looked at the data from millennials from California colleges. Millenials from colleges in California still tend to have a slightly higher dating app success rate according to our data.
+Overall, this analysis shows the average success rate on whether it became a relationship or not among millennials. It looks at the overall average results from millennials from some colleges around the United States who use Tinder and later we compare it to the average overall results from millennials from California colleges. According to these pie charts shown below, the overall results from millennials **NOT** in California colleges are about the same as the results we got when we only looked at the data from millennials from California colleges. Millennials from colleges in California still tend to have a slightly higher dating app success rate according to our data.
 
-For future analysis, to improve this analysis and get a more accurate way to analyze this data, I would try to look for data where the **_sample size_** is the same for **_each_** college. That would help make a less biased answer if we ever decide to judge the results by each college. For example, you can see some colleges, such as Stanford University had 108 millenials surveyed, while other colleges like University of California, San Diego only had 1 millenial surveyed in this dataset. The difference in sample size shows it would be difficult to compare these two colleges together. The results from Stanford University would be more accurate in this example mentioned because the sample size was larger and had a bigger variety of millenials surveyed.
+For future analysis, to improve this analysis and get a more accurate way to analyze this data, I would try to look for data where the **_sample size_** is the same for **_each_** college. That would help make a less biased answer if we ever decide to judge the results by each college. For example, you can see some colleges, such as Stanford University had 108 millennials surveyed, while other colleges like University of California, San Diego only had 1 millennial surveyed in this dataset. The difference in sample size shows it would be difficult to compare these two colleges together. The results from Stanford University would be more accurate in this example mentioned because the sample size was larger and had a bigger variety of millenials surveyed.
 
 **Overall Results from Millennials in All US Colleges**
 
@@ -97,4 +97,4 @@ This data shows there are a **28.70%** chance of a "**Yes**" result and a **71.3
 
 <img width="366" alt="CA Colleges Tinder Success Rate" src="https://user-images.githubusercontent.com/79742633/148360716-4e939ce9-e883-444e-af53-22ecdc6acbd0.png">
 
-This data shows there are **30.56%** chance of a "**Yes**" result, meaning that it became a relationship and was successful. It also shows a **69.44%** for the "**No**" results for these millenials, meaning that it did not become a relationship and was **NOT** successful. Since the data of the "**Yes**" results are higher than the overall average results in the US, this can mean millenials in **California colleges** may have a better chance of finding a relationship here compared to colleges outside of California.
+This data shows there are **30.56%** chance of a "**Yes**" result, meaning that it became a relationship and was successful. It also shows a **69.44%** for the "**No**" results for these millennials, meaning that it did not become a relationship and was **NOT** successful. Since the data of the "**Yes**" results are higher than the overall average results in the US, this can mean millennials in **California colleges** may have a slightly higher chance of finding a relationship here compared to colleges outside of California.
